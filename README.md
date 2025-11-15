@@ -16,14 +16,14 @@ This project is a requirement for the **SEP 6DA3: Data Analytics and Big Data** 
 
 ## 👥 Contributors
 
-| Name                        | Student ID | Email                | GitHub Handle                                   |
-| :-------------------------- | :--------- | :------------------- | :---------------------------------------------- |
-| Moosani, Iliyan             | 400587184  | moosanii@mcmaster.ca | [`username`](https://github.com/aayushi2812)    |
-| Parekh, Aayushi Chintan     | 400678333  | pareka13@mcmaster.ca | [`aayushi2812`](https://github.com/aayushi2812) |
-| Patel, Jainish Shaileshbhai | 400550277  | patej118@mcmaster.ca | [`polonium31`](https://github.com/polonium31)   |
-| Patel, Mayur Kalabhai       | 400552080  | patem245@mcmaster.ca | [`mayur045`](https://github.com/mayur045)       |
-| Patel, Priyaben             | 400676356  | patep280@mcmaster.ca | [`perry0716`](https://github.com/perry0716)     |
-| Virani, Jenil Salimbhai     | 400591994  | viranj1@mcmaster.ca  | [`username`](https://github.com/username)       |
+| Name                        | Student ID | Email                | GitHub Handle                                     |
+| :-------------------------- | :--------- | :------------------- | :------------------------------------------------ |
+| Moosani, Iliyan             | 400587184  | moosanii@mcmaster.ca | [`iliyanm10`](https://github.com/iliyanm10)       |
+| Parekh, Aayushi Chintan     | 400678333  | pareka13@mcmaster.ca | [`aayushi2812`](https://github.com/aayushi2812)   |
+| Patel, Jainish Shaileshbhai | 400550277  | patej118@mcmaster.ca | [`polonium31`](https://github.com/polonium31)     |
+| Patel, Mayur Kalabhai       | 400552080  | patem245@mcmaster.ca | [`mayur045`](https://github.com/mayur045)         |
+| Patel, Priyaben             | 400676356  | patep280@mcmaster.ca | [`perry0716`](https://github.com/perry0716)       |
+| Virani, Jenil Salimbhai     | 400591994  | viranj1@mcmaster.ca  | [`jenil-virani`](https://github.com/jenil-virani) |
 
 ---
 
